@@ -1,4 +1,4 @@
-# module-1-challenge
+# Module 1 Refactored Code
 
 ## Refacture Code and Use Scout Clean
 In this project a code was reviewed and the goal was to clean up the code and simplify the structure of the code without changing the functionality of the original website or the styling of the website.
