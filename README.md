@@ -8,6 +8,8 @@ During this module chllenge I learned the use of the div tag and how it is then 
 ## HTML 
 Changes were made on the "index.html" as the goal was to refacture the code without changing the styling or functionality of the website
 
+Some changes include adding a main tag to wrap the main content of the website as well as added a section tag to group the related content 'benefit-....'
+
 On the original website I noticed that a feature was missing when on the header contents when clicking the subheaders. When clicking on subheaders 'Online Reputation Manangement' and 'Social Media Marketing' it redirected the user to the contents on website but when clicking 'Search Engine Optimization' there was no feature to redirect the user to its assigned contents. I was able to fix this issue on the html by assigned an id a Unique ID to the class 'Search Engine Optimization.'
 
 ### Tests
